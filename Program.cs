@@ -1,11 +1,8 @@
 ﻿using System;
 
-using Microsoft.Extensions.Logging;
-
 using Avalonia;
 
 using Velopack;
-using Avalonia.Logging;
 
 namespace VelopackTesting;
 
