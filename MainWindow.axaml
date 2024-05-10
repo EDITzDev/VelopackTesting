@@ -21,7 +21,7 @@
       </StackPanel>
     </StackPanel>
     <ScrollViewer Name="ScrollLog" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-      <TextBlock Name="TextLog" Background="BlueViolet" Foreground="White" TextWrapping="Wrap" />
+      <TextBlock Name="TextLog" Background="LimeGreen" Foreground="White" TextWrapping="Wrap" />
     </ScrollViewer>
   </Grid>
 </Window>
